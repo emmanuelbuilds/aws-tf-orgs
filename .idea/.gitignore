@@ -1,0 +1,11 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+.terraform/
+.tfe.auto.tfvars
+
+*.log
+
+output-*.txt
+src/tfe/**/envrionments/
